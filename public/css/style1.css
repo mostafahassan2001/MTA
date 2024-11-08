@@ -1,0 +1,16 @@
+body{
+    background-color: #131722;
+    font-family: "Montserrat Alternates", sans-serif !important;
+    color: #fff;
+}
+.navbar-light .navbar-nav .nav-link,.navbar-light .navbar-brand{
+    color: #fff;
+}
+.navbar-light .navbar-nav .nav-link:hover,.navbar-light .navbar-brand:hover{
+    color:gray;
+}
+.brd{
+    height: 3px;
+    background-color: #a8a8a83d ;
+    margin: 30px 0;
+}
